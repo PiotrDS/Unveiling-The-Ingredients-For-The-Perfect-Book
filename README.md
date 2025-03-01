@@ -1,4 +1,4 @@
-# Unveiling-The-Ingredients-For-The-Perfect-Book :book: :book:
+# :book: Unveiling-The-Ingredients-For-The-Perfect-Book :book:
 
 The project was carried out by a three-person team, with the goal of creating an aesthetically pleasing poster featuring data visualizations from a selected dataset. The visualizations were created in the R environment using libraries such as dplyr and ggplot2.
 
